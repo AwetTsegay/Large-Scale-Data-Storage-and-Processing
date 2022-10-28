@@ -5,7 +5,7 @@ Created on Fri Jan 15 16:53:51 2021
 @author: tsega
 """
 
-##### Lecture 1
+##### Week 1
 
 f = open('/Users/uxac007/Work/CS5234/demo.txt', 'r')
 print(type(f))
